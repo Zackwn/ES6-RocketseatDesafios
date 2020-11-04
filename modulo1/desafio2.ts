@@ -29,3 +29,5 @@ const finalUsers = users.map(user => {
   return user.age < 50
 })
 console.log('Final Users: ', finalUsers)
+
+export { }

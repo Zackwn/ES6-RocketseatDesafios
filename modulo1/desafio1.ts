@@ -26,3 +26,5 @@ console.log(user.isAdmin) // false
 
 const admin = new Admin('example@example.com', '123456')
 console.log(admin.isAdmin) // true
+
+export { }
